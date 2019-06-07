@@ -30,8 +30,17 @@ h1{
     padding: 10px;
 }
 
-.rodape{
+#rodape{
     font-weight: bolder;
     color: black;
     text-align: center;
+}
+
+#contato{
+    padding: 10px;
+}
+
+
+.borda-imagem{
+    border: 10px solid #c3c3ae;
 }
