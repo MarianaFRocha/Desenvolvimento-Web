@@ -1,0 +1,7 @@
+Box Model(Modelo de Caixa):
+
+-qualquer elemento html vai ter comportamento de Caixa
+-padding = espaçamento interno
+-margem = espaçamento externo
+
+
