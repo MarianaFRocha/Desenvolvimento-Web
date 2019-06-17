@@ -1,0 +1,14 @@
+
+.Conteudo{
+    border: 1px solid red;
+    /*padding-top: 20px;
+    padding-right: 20px;*/
+
+    /*cima /lateral direita /baixo /lateral esquerda*/
+    padding: 30px 20px 15px 5px;
+
+    margin-top: 20px;
+    margin-left: 30px;
+
+    width: 150px;
+}
