@@ -1,6 +1,11 @@
 
+
+#fotos{
+    
+}
+
 #principal{
-    background-color: crimson;
+    background-color: rgb(235, 231, 231);
     border: 3px solid grey;
     width: 920px;
 
@@ -14,7 +19,8 @@
     width: 200px;
 
     margin: 10px;
-    padding: 5px;
+    padding: 10px;
+    float: left;
 }
 
 .Conteudo{
@@ -40,8 +46,10 @@
 
 .clear{
     /*Limpa o fluxo flutuante*/
-    clear: left;
+    clear: both;
 }
+
+
 
 /*
 .Conteudo1{
